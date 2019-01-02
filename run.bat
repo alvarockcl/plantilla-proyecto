@@ -1,0 +1,1 @@
+java -cp target/proyecto-1.jar;target/libs/* cl.fuentes.app.App
